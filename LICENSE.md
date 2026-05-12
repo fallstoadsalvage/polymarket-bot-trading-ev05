@@ -1,4 +1,4 @@
-# 
+# smart Polymarket Utility | prediction-market-scanning + take-profit-orders is the best Polymarket utility, featuring prediction-market-scanning and take-profit-orders. Smart,
 
 
 
